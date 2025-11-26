@@ -58,7 +58,7 @@ Execute the program using runserver command.
 
             </tr>
             <tr>
-                <td bgcolor="Yellow" align="center">10-12</td>
+                <td bgcolor="Yellow" align="center"><b>10-12</b></td>
                 <td align="center">C</td>
                 <td align="center">COM ENG</td>
                 <td align="center">FREE SLOT</td>
@@ -66,20 +66,20 @@ Execute the program using runserver command.
                 <td colspan="2" align="center">FWAD</td>
             </tr>
             <tr>
-                <td bgcolor="Yellow" align="center">12-1</td>
-                <td colspan="5" align="center">LUNCH</td>
+                <td bgcolor="Yellow" align="center"><b>12-1</b></td>
+                <td colspan="6" align="center">LUNCH</td>
             </tr>
             <tr>
-                <td bgcolor="Yellow" align="center">1-3</td>
+                <td bgcolor="Yellow" align="center"><b>1-3</b></td>
                 <td colspan="2" align="center">FWAD</td>
-                <td>MENTOR MEET</td>
-                <td>COM ENG</td>
+                <td align="center">MENTOR MEET</td>
+                <td align="center">COM ENG</td>
                 <td colspan="2" align="center">FREE SLOT</td>
             </tr>
             <tr>
-                <td bgcolor="yellow" align="center">3-5</td>
+                <td bgcolor="yellow" align="center"><b>3-5</b></td>
                 <td align="center">FREE SLOT</td>
-                <td colespan="3" align="center">C</td>
+                <td colspan="3" align="center">C</td>
                 <td align="center">FREE SLOT</td>
                 <td align="center">ENG</td>
             </tr>
@@ -114,7 +114,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![alt text](<Screenshot (18).png>)
+![alt text](image.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
