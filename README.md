@@ -46,20 +46,24 @@ Execute the program using runserver command.
                 <th>WEDNESDAY</th>
                 <th>THURSDAY</th>
                 <th>FRIDAY</th>
+                <th>SATURDAY</th>
             </tr>
             <tr>
-                <td bgcolor="Yellow" align="center">8-10</td>
-                <td colspan="3" align="center">FREE SLOT</td>
-                <td align="center">PHY</td>
-                <td align="center">CHE</td>
+                <td bgcolor="Yellow" align="center"><b>8-10</b></td>
+                <td align="center">FREE SLOT</td>
+                <td align="center">C</td>
+                <td colspan="2" align="center">FREE SLOT</td>
+                <td align="center">FWAD</td>
+                <td align="center">FREE SLOT</td>
+
             </tr>
             <tr>
                 <td bgcolor="Yellow" align="center">10-12</td>
-                <td align="center">GER</td>
+                <td align="center">C</td>
+                <td align="center">COM ENG</td>
                 <td align="center">FREE SLOT</td>
-                <td align="center">FWAD</td>
-                <td align="center">FWAD</td>
-                <td align="center">PHY</td>
+                <td align="center">COM ENG</td>
+                <td colspan="2" align="center">FWAD</td>
             </tr>
             <tr>
                 <td bgcolor="Yellow" align="center">12-1</td>
@@ -67,17 +71,17 @@ Execute the program using runserver command.
             </tr>
             <tr>
                 <td bgcolor="Yellow" align="center">1-3</td>
+                <td colspan="2" align="center">FWAD</td>
+                <td>MENTOR MEET</td>
+                <td>COM ENG</td>
                 <td colspan="2" align="center">FREE SLOT</td>
-                <td align="center">MAT</td>
-                <td align="center">MAT</td>
-                <td align="center">SS</td>
             </tr>
             <tr>
                 <td bgcolor="yellow" align="center">3-5</td>
-                <td colspan="2" align="center">FREE SLOT</td>
-                <td align="center">GER</td>
-                <td align="center">CHE</td>
-                <td align="center">FWAD</td>
+                <td align="center">FREE SLOT</td>
+                <td colespan="3" align="center">C</td>
+                <td align="center">FREE SLOT</td>
+                <td align="center">ENG</td>
             </tr>
         </table>
         <div style="margin-top: 40px;"></div>
@@ -94,30 +98,15 @@ Execute the program using runserver command.
             </tr>
             <tr>
                 <td align="center">2.</td>
-                <td align="center">19EN612</td>
-                <td >German Basic (GER)</td>
+                <td align="center">19EN101</td>
+                <td >Communicative English (COM ENG)</td>
             </tr>
             <tr>
                 <td align="center">3.</td>
-                <td align="center">19PH206</td>
-                <td>Physics for Information Technology (PHY)</td>
+                <td align="center">19AI304</td>
+                <td>Fundamentals of C Programming (C) </td>
             </tr>
-            <tr>
-                <td align="center">4.</td>
-                <td align="center">19CY205</td>
-                <td>Principles of Chemistry in Engineering (CHE)</td>
-            </tr>
-             <tr>
-                <td align="center">5.</td>
-                <td align="center">19MA201</td>
-                <td>Calculus and Matrix Algebra (MAT) </td>
-            </tr>
-             <tr>
-                <td align="center">6.</td>
-                <td align="center">19EY701</td>
-                <td>Soft Skills (SS)</td>
-            </tr>
-        </table>
+            </table>
     </body>
 </html>
 
